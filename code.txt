@@ -1,5 +1,5 @@
 
-git config --global user.email "k022c2081@g.neec.ac.jp"
-git config --global user.name "ZHAO YAN"
+git config --global user.email "mail"
+git config --global user.name "name"
 git commit -a -m 'code'
-git push -u origin nagare_zy
+git push -u origin [branch_name]
